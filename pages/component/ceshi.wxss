@@ -1,0 +1,23 @@
+.myheader{
+    display: block;
+    width: 100%;
+    height: 200px;
+    background: #ff7400;
+}
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.userinfo-avatar{
+    width: 128rpx;
+    height: 128rpx;
+    margin: 20rpx;
+    border-radius: 50%;
+}
+.userinfo-nickName{
+    color: #000;
+}
+.text{
+    text-align: center;
+}
